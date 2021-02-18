@@ -1,10 +1,6 @@
 # awesome-devops
 
-感谢 林伟丹 同学整理，我只负责搬砖
-
-欢迎大家通过 [issue](https://github.com/agilechina/awesome-devops/issues/new) 或者 pull request 方式提交意见和修改。
-
-本帖从网络及公开渠道上汇集了与DevOps有关的部分文章和资料，供学习用途。
+本帖从网络及公开渠道上汇集了与DevOps有关的部分文章和资料，供学习用途。欢迎Pull Request。
 
 ## DevOps总览
 
